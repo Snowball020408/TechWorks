@@ -1,0 +1,16 @@
+﻿[
+  {
+    "modid": "techwork",
+    "name": "TechWork",
+    "description": "Sup Mod.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "www.zyraderoot.de",
+    "updateUrl": "",
+    "authorList": ["Snowball"],
+    "credits": "Sup",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
